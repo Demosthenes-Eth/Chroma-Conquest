@@ -1,2 +1,5 @@
 # Chroma-Conquest
-A faction-based blockchain game built around colored tiles.
+
+Chroma Conquest is a strategic game played between players organized into primary and secondary color factions.  Play is facilitated through minting NFT characters which determine the players color faction affiliation and tokengate access to the gameplay functions within the smart contract.  The primary game mechanic is a function which enables players to inhcrement or decrement the value of either the red, green, or blue channels within the RGB fill value of each game map tile.  Players will attempt to convert each tile to the RGB value of their faction.  The first faction to successfully convert the entire map to their RGB value wins the game.
+
+This is a project I've been ideating on for the past several months, but I've decided to work on it for Buildspace's Nights & Weekends Season 2 to challenge myself to actually get it shipped, warts and all.  The end goal will be to release a self-contained, non-upgradeable blockchain game that will run its course without the active intervention of the original developer (i.e. me).
